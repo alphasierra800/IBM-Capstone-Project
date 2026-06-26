@@ -1,2 +1,18 @@
 # IBM-Capstone-Project
-Compilation of labs &amp; dashboard for IBM Data Analyst Capstone Project 
+This repository documents the final capstone project for the IBM Data Analyst Professional Certificate. It demonstrates the application of key data analytics skills on a practical business dataset to extract meaningful insights. 
+
+## Project Overview
+- Collecting data from multiple sources  
+- Cleaning and preparing datasets for analysis  
+- Exploring data to identify patterns and trends  
+- Applying statistical methods to generate insights  
+- Building visualizations to communicate findings clearly  
+- Developing an interactive dashboard to present results
+
+
+## Tools Used
+
+- Jupyter Notebook for analysis & documentation  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy)  
+- SQL for data extraction &  querying  
+- IBM Cognos Analytics: Dashboard creation
