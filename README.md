@@ -2,11 +2,11 @@
 This repository documents the final capstone project for the IBM Data Analyst Professional Certificate. It demonstrates the application of key data analytics skills on a practical business dataset to extract meaningful insights. 
 
 ## Project Overview
-- Collecting data from multiple sources  
-- Cleaning and preparing datasets for analysis  
-- Exploring data to identify patterns and trends  
+- Collecting data through API & web-scraping  
+- Cleaning & preparing datasets for analysis  
+- Exploratory Data Analysis to identify patterns & trends  
 - Applying statistical methods to generate insights  
-- Building visualizations to communicate findings clearly  
+- Data Visualization to communicate findings clearly  
 - Developing an interactive dashboard to present results
 
 
